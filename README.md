@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning for python
 - 💞️ I’m looking to collaborate on Ai projects to create systems to test the strength and durability of rollercoasters 
 - 📫 How to reach me tjmason814@gmail.com or tmason2019@fau.edu
-- 😄 Pronouns: he/him in public but transitioning to she/her in the near future
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I bench 315lbs 
 
 <!---
